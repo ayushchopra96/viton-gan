@@ -1,3 +1,5 @@
+## Generative Models for Fashion Scene Manipulation
+
 ## Setup
 ./setup.sh
 
